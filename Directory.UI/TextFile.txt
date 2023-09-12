@@ -1,0 +1,27 @@
+﻿NOT: Crud işlemleri için HomeController kullanılabilir.
+
+
+
+--- UI Katmanının geliştirilmesi aşamaları ---
+
+
+
+1- Rehber listeleme sayfasının geliştirilmesi ve veritabanı işlemleri. ( Person sınıfının listelenmesi )
+
+2- Yeni person ekleme sayfasının geliştirilmesi ve veritabanı işlemleri.
+
+3- Person güncelleme sayfasının geliştirilmesi ve veritabanı işlemleri.
+
+4- Person silme işleminin geliştirilmesi.
+
+5- Ekleme ve güncelleme sayfalarında fluentValidation uygulanmalı.
+
+     a- Zorunlu alan ve maksimum karakter kontrolleri yapılmalı.
+
+     b- Aynı isim ve soyisim kullanımını engelleyiniz. ( Örn: ikinci bir "abdullah yeşil" açılamaz. "abdullah onur" açılabilir.)
+
+     c- Aynı telefon numarası kullanılamaz.
+
+
+
+NOT: Sayfalar tasarlanırken isteğe bağlı hazır şablon kullanabilirsiniz.
